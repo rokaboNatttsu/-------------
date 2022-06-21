@@ -23,7 +23,7 @@ value ranking：体験の価値を表す変数。観測されない。
 
 simple vote ranking：単純な得票数のランキング
 
-corrected vote ranking：一人当たりの投票数をすべての投票者で一律に補正したときの、得票数のランキング
+corrected vote ranking：一人当たりの投票数がすべての投票者で一律になるように補正したときの、得票数のランキング
 
 simple vote rate ranking：その経験をしたことがある投票者一人当たりの、その経験が得た得票数
 
