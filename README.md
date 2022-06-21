@@ -9,6 +9,10 @@ K：一人当たりの投票権利数
 
 LOGSCALE_RANGE：popularityの log(最大値/最小値) = LOGSCALE_RANGE
 
+##  元データ
+pd.read_csv("data.csv")
+などで、データの入力を自力で書く必要がある。入力するデータvoter_dbの形式は、データ生成のセルの出力を参照
+
 
 ##  結果表のカラムの意味
 id：体験のID
