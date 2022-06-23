@@ -23,10 +23,10 @@ value ranking：体験の価値を表す変数。観測されない。
 
 simple vote ranking：単純な得票数のランキング
 
-corrected vote ranking：一人当たりの投票数をすべての投票者で一律に補正したときの、得票数のランキング
+corrected vote ranking：一人当たりの投票数がすべての投票者で一律になるように補正したときの、得票数のランキング
 
 simple vote rate ranking：その経験をしたことがある投票者一人当たりの、その経験が得た得票数
 
 professional ranking：経験が多い人の票が重く評価され、同時に、同じ人がした経験同士の相対的な得票差も評価されるランキング
 
-professional ranking 2：professional rankingに、その経験をしたことがある投票者一人当たりの、その経験が得た得票数の評価も加えた評価のランキング
+professional ranking 2：professional rankingに、「その経験をしたことがある投票者一人当たりの、その経験が得た得票数の評価」も加えた評価のランキング
